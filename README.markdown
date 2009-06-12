@@ -20,5 +20,5 @@ every time I want to use it, so: tough (also: maybe I'll rename it later; this
 is really just a way for me to get used to playing around with git and github).
 
 Dan Friedman
-Toronto
-June, 2009
+
+Toronto, June, 2009
