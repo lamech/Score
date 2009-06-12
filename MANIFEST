@@ -1,0 +1,12 @@
+lib/IStatement.pm
+lib/Part.pm
+lib/Score.pm
+Makefile.PL
+MANIFEST
+META.yml
+simple-example.pl
+t/istatement.t
+t/part.t
+t/score.t
+t/testlib/MyPiece.pm
+README
